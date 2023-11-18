@@ -1,0 +1,7 @@
+reticker
+polygon-api-client
+openpyxl
+python-dotenv
+transformers
+scikit-learn
+emoji==0.6.0
